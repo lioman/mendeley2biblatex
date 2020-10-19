@@ -2,6 +2,8 @@
 Mendeley2Biblatex
 =================
 
+* This package is not maintained any more. *
+
 This package converts a mendeley database to a biblatex file
 
 It is based on a `script <https://github.com/fbianco/mendeley2bibtex>`_ written by François Bianco, University of Geneva
